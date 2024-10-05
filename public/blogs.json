@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://images.unsplash.com/photo-1532298229144-0ec0c57515c7",
+      "title": "The Art of AI",
+      "author": "Jane Doe",
+      "author_img": "https://randomuser.me/api/portraits/women/1.jpg",
+      "posted_date": "2024-01-15",
+      "reading_time": 8,
+      "hashtags": ["#AI", "#MachineLearning", "#FutureTech"]
+    },
+    {
+      "id": 2,
+      "cover": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+      "title": "Exploring Quantum Computing",
+      "author": "John Smith",
+      "author_img": "https://randomuser.me/api/portraits/men/2.jpg",
+      "posted_date": "2024-02-10",
+      "reading_time": 12,
+      "hashtags": ["#QuantumComputing", "#Technology", "#Innovation"]
+    },
+    {
+      "id": 3,
+      "cover": "https://images.unsplash.com/photo-1506765515384-028b60a970df",
+      "title": "Sustainable Energy and the Future",
+      "author": "Alice Johnson",
+      "author_img": "https://randomuser.me/api/portraits/women/3.jpg",
+      "posted_date": "2024-03-25",
+      "reading_time": 10,
+      "hashtags": ["#Sustainability", "#Energy", "#Environment"]
+    },
+    {
+      "id": 4,
+      "cover": "https://images.unsplash.com/photo-1517430816045-df4b7de2c44f",
+      "title": "The Rise of Blockchain",
+      "author": "Bob Lee",
+      "author_img": "https://randomuser.me/api/portraits/men/4.jpg",
+      "posted_date": "2024-04-05",
+      "reading_time": 9,
+      "hashtags": ["#Blockchain", "#Cryptocurrency", "#Tech"]
+    },
+    {
+      "id": 5,
+      "cover": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514",
+      "title": "The Psychology of Innovation",
+      "author": "Carol Davis",
+      "author_img": "https://randomuser.me/api/portraits/women/5.jpg",
+      "posted_date": "2024-05-12",
+      "reading_time": 7,
+      "hashtags": ["#Psychology", "#Innovation", "#Leadership"]
+    }
+  ]
+  
